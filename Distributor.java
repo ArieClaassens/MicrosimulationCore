@@ -1,4 +1,20 @@
-package uk.ac.leeds.ccg.modeling.microsim;
+/**
+ * --Copyright notice-- 
+ *
+ * Copyright (c) School of Geography, University of Leeds. 
+ * http://www.geog.leeds.ac.uk/
+ * This software is licensed under 'The Artistic License' which can be found at 
+ * the Open Source Initiative website at... 
+ * http://www.opensource.org/licenses/artistic-license.php
+ * Please note that the optional Clause 8 does not apply to this code.
+ *
+ * The Standard Version source code, and associated documentation can be found at... 
+ * [online] http://mass.leeds.ac.uk/
+ * 
+ *
+ * --End of Copyright notice-- 
+ *
+ */
 
 import java.awt.*;
 import java.awt.event.*;
