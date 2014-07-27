@@ -2,6 +2,10 @@
 Thumbs.db
 ehthumbs.db
 
+*.class
+.gitignore
+.gitattributes
+
 # Folder config file
 Desktop.ini
 
